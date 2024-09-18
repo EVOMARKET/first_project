@@ -1,0 +1,6 @@
+{
+  "dataworkspace.excludedProjects": [
+    "hys_pass/hys_pass.sqlproj"
+  ],
+  "sqltools.connections": []
+}
